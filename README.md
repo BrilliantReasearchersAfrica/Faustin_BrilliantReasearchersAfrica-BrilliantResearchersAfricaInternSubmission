@@ -1,6 +1,6 @@
 **Name: Faustin Niyomurengezi**
 
-**BRA Fire Suppression IoT Monitoring Platform****
+**BRA Fire Suppression IoT Monitoring Platform**
 
 **Project Description**
 
